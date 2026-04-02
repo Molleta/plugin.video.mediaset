@@ -1,0 +1,7 @@
+<extension point='xbmc.python.addon.metadata' library='plugin.video.mediaset'>
+  <summary>Mediaset Plugin</summary>
+  <description>This is a plugin for Mediaset.</description>
+  <platform>all</platform>
+  <version>1.0.0</version>
+  <provider name='Molleta'/>
+</extension>
